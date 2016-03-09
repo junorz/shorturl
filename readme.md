@@ -1,7 +1,6 @@
 # A ShortURL tool / 短网址工具
 ### Powered by Junorz.com && Laravel
 
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 一个使用Laravel框架写的短网址工具，对于拥有短域名的人来说也许是个不错的选择。
 
